@@ -63,7 +63,6 @@ public class AddressController {
     @PostMapping("/deleted")
     public ResponseEntity<BaseResult> deleted (@RequestBody Address address){
         addressService.delete(address);
-        System.out.println("aaa");
         return ResponseEntity.ok(new BaseResult(0,"成功"));
 
     }
