@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/toumingshiguang-auth/toumingshiguang-auth.iml" filepath="$PROJECT_DIR$/toumingshiguang-auth/toumingshiguang-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toumingshiguang-auth/toumingshiguang-auth-service/toumingshiguang-auth-service.iml" filepath="$PROJECT_DIR$/toumingshiguang-auth/toumingshiguang-auth-service/toumingshiguang-auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toumingshiguang-cart/toumingshiguang-cart.iml" filepath="$PROJECT_DIR$/toumingshiguang-cart/toumingshiguang-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toumingshiguang-eureka-server/toumingshiguang-eureka-server.iml" filepath="$PROJECT_DIR$/toumingshiguang-eureka-server/toumingshiguang-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toumingshiguang-gateway/toumingshiguang-gateway.iml" filepath="$PROJECT_DIR$/toumingshiguang-gateway/toumingshiguang-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toumingshiguang-parent.iml" filepath="$PROJECT_DIR$/toumingshiguang-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toumingshiguang-pojo/toumingshiguang-pojo.iml" filepath="$PROJECT_DIR$/toumingshiguang-pojo/toumingshiguang-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toumingshiguang-service/toumingshiguang-service.iml" filepath="$PROJECT_DIR$/toumingshiguang-service/toumingshiguang-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toumingshiguang-auth/toumingshiguang-web-auth-common/toumingshiguang-web-auth-common.iml" filepath="$PROJECT_DIR$/toumingshiguang-auth/toumingshiguang-web-auth-common/toumingshiguang-web-auth-common.iml" />
+    </modules>
+  </component>
+</project>

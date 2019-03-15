@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="toumingshiguang-auth-service" />
+        <module name="toumingshiguang-cart" />
+        <module name="toumingshiguang-eureka-server" />
+        <module name="toumingshiguang-gateway" />
+        <module name="toumingshiguang-pojo" />
+        <module name="toumingshiguang-service" />
+        <module name="toumingshiguang-web-auth-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="toumingshiguang-auth" target="1.8" />
+      <module name="toumingshiguang-auth-common" target="1.8" />
+      <module name="toumingshiguang-auth-service" target="1.8" />
+      <module name="toumingshiguang-cart" target="1.8" />
+      <module name="toumingshiguang-eureka-server" target="1.8" />
+      <module name="toumingshiguang-gateway" target="1.8" />
+      <module name="toumingshiguang-parent" target="1.8" />
+      <module name="toumingshiguang-pojo" target="1.8" />
+      <module name="toumingshiguang-service" target="1.8" />
+      <module name="toumingshiguang-web-auth-common" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="toumingshiguang-auth-service" options="-parameters" />
+      <module name="toumingshiguang-cart" options="-parameters" />
+      <module name="toumingshiguang-eureka-server" options="-parameters" />
+      <module name="toumingshiguang-gateway" options="-parameters" />
+      <module name="toumingshiguang-pojo" options="-parameters" />
+      <module name="toumingshiguang-service" options="-parameters" />
+      <module name="toumingshiguang-web-auth-common" options="-parameters" />
+    </option>
+  </component>
+</project>
